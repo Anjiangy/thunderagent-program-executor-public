@@ -1,0 +1,3 @@
+﻿# keep shell/py files LF on checkout even with autocrlf=true
+*.sh text eol=lf
+*.py text eol=lf

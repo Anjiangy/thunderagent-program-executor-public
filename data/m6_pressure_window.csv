@@ -1,0 +1,9 @@
+﻿arm,run,forced_to_a,moves,hit_rate,recompute_tokens,turns_per_minute,lat_p50_s,lat_p95_s
+no balancer,s11t_nobal,18,0,0.0731,451296,119.1,1.463,1.474
+no balancer,s11t_early_b,18,0,0.0766,450264,119.1,1.465,1.474
+no balancer,s11r_early_b,18,0,0.0701,453584,118.9,1.466,1.477
+no balancer,s11t_nobal_b,18,0,0.0746,449584,119.1,1.463,1.488
+balancer + KV pull,s11t_early,18,13,0.4995,262618,139.2,0.470,1.469
+balancer + KV pull,s11t_bal2,18,13,0.5001,262558,137.4,0.512,1.474
+balancer + recompute,s11r_early,18,13,0.5343,235171,140.8,0.454,1.466
+balancer + recompute,s11r_bal2,18,13,0.5535,225658,140.3,0.525,1.467

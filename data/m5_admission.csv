@@ -1,0 +1,7 @@
+﻿run,arm,ok,failed,wall_seconds,turns_per_minute,hit_rate,latency_p95_s
+nocap,nocap,96,0,39.6,145.3,0.6612,3.58
+tokencap,tokencap,96,0,38.4,149.9,0.7491,3.70
+nocap2,nocap,96,0,38.4,149.9,0.7217,3.54
+tokencap2,tokencap,96,0,39.6,145.3,0.7133,3.88
+nocap3,nocap,96,0,38.5,149.8,0.7022,3.59
+tokencap3,tokencap,96,0,38.4,149.9,0.7487,3.69

@@ -1,0 +1,7 @@
+﻿run,arm,moves,done,failed,wall_s,turns_per_min,hit_rate,recompute_tokens,ttft_p50_s
+sk4-nobal,nobal,0,40,0,30.6,235.0,0.6545,138662,6.62
+sk5-nobal,nobal,0,40,0,30.8,233.9,0.6543,138259,None
+sk6-nobal,nobal,0,40,0,29.9,241.2,0.6543,138068,None
+sk4-bal,bal,5,40,0,30.9,233.1,0.6185,16078,6.64
+sk5-bal,bal,2,40,0,30.3,237.5,0.6318,152050,None
+sk6-bal,bal,6,40,0,31.5,228.9,0.6124,165443,None

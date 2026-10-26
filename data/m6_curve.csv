@@ -1,0 +1,11 @@
+﻿arm,scenario,prefix_words,per_card_load,hit_rate,lat_p50_s,lat_p95_s,recompute_tokens,turns_per_minute
+bare TA,short 40w even,40,0.05,0.7610,0.748,,
+bare TA,long 600w even,600,0.44,0.8159,0.363,0.451,60408,157.6
+recompute handoff,short 40w even,40,0.05,0.4940,0.866,,
+recompute handoff,long 600w even,600,0.44,0.8111,0.340,0.444,61728,159.8
+recompute handoff,long 600w skew,600,0.75,0.7411,0.365,0.567,85848,152.4
+recompute handoff,long 900w skew over,900,1.11,0.5116,0.473,1.466,246264,136.9
+transfer handoff,long 600w even,600,0.44,0.7973,0.354,0.452,66208,158.3
+transfer handoff,long 600w skew,600,0.75,0.7524,0.432,0.577,83490,151.2
+transfer handoff,long 900w skew over,900,1.11,0.4349,0.707,1.470,295670,131.5
+ours + balancer on,short 40w even,40,0.05,0.4334,1.251,,

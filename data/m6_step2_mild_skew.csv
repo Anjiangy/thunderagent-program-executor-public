@@ -1,0 +1,5 @@
+﻿arm,run,hit_rate,recompute_tokens,turns_per_minute,lat_p50_s,lat_p95_s,balance_moves,program_migrations
+recompute,1,0.6937,102314,153.0,0.434,0.764,5,22
+recompute,2,0.6688,110347,153.0,0.427,0.891,5,22
+transfer,1,0.1865,270828,82.4,0.765,1.107,3,20
+transfer,2,0.1429,287150,82.1,0.850,1.123,3,20

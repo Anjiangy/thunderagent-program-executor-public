@@ -1,0 +1,5 @@
+﻿run,programs,turns,size_skew,arm,ok,failed,wall_s,turns_per_minute,hit_rate,hit_norm_ceiling,p50_s,p95_s
+n32a,32,8,0.25,pin-count,256,0,42.0,365.9,0.8636,0.9870,0.38,2.18
+n32b,32,8,0.25,cap+token-aware,256,0,42.2,364.3,0.8657,0.9894,0.39,2.01
+n32c,32,8,0.25,pin-count,256,0,40.8,376.6,0.8625,0.9857,0.38,1.94
+n32d,32,8,0.25,cap+token-aware,256,0,40.1,382.8,0.8619,0.9850,0.37,0.64

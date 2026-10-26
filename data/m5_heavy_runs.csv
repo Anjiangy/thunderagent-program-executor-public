@@ -1,0 +1,7 @@
+﻿run,arm,ok,failed,wall_s,turns_per_minute,hit_rate,p50_s,p95_s,note
+hn1,nocap,72,0,28.8,149.9,0.9645,0.32,0.38,first run after fix
+ht1,tokencap,72,0,28.8,149.9,0.9894,0.32,0.34
+hn2,nocap,72,0,28.8,149.9,0.9894,0.32,0.34,suspicious duplicate
+ht2,tokencap,72,0,28.8,149.9,0.9894,0.32,0.34,suspicious duplicate
+hn3,nocap,72,0,28.8,149.9,0.9894,0.32,0.34,suspicious duplicate
+ht3,tokencap,72,0,28.8,149.9,0.9894,0.32,0.34,suspicious duplicate

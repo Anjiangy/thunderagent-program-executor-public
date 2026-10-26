@@ -1,0 +1,17 @@
+﻿run,arm,config,hit_rate,recompute_tokens,lat_p50_s,turns_per_minute,balance_moves
+even-pin-r1,pin-off,even/114k,0.8574,146112,0.34,151.7,0
+even-pin-r2,pin-off,even/114k,0.8562,147416,0.34,151.8,0
+even-pin-r3,pin-off,even/114k,0.8588,144672,0.34,151.4,0
+even-pin-r4,pin-off,even/114k,0.8573,146896,0.34,151.9,0
+even-bytes-r1,bytes-off,even/114k,0.8562,147448,0.35,150.8,0
+even-bytes-r2,bytes-off,even/114k,0.8570,146328,0.35,151.7,0
+even-bytes-r3,bytes-off,even/114k,0.8569,146736,0.35,151.9,0
+even-bytes-r4,bytes-off,even/114k,0.8592,144392,0.35,151.5,0
+fill-off-r1,fill-off,fill/114k,0.1860,1557960,2.23,75.7,0
+fill-off-r2,fill-off,fill/114k,0.1950,1552000,2.10,76.3,0
+fill-off-r3,fill-off,fill/114k,0.1860,1560000,2.16,76.0,0
+fill-on-h75-r1,fill-on,fill/114k/hot0.75,0.2190,1530000,2.05,75.2,0
+fill-on-h75-r2,fill-on,fill/114k/hot0.75,0.1790,1536000,1.98,75.6,0
+fill-on-h60-r1,fill-on,fill/114k/hot0.60,0.2310,1520000,1.85,76.4,0
+fill-on-h60-r2,fill-on,fill/114k/hot0.60,0.1940,1532000,1.88,76.0,0
+fill-on-h60-r3,fill-on,fill/114k/hot0.60,0.2020,1531000,1.86,76.2,0

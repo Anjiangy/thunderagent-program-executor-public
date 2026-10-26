@@ -1,0 +1,5 @@
+﻿label,carrier,forced_to_a,requests,failures,hit_rate,recompute_tokens,turns_per_minute,lat_p50_s,lat_p95_s,balance_moves,program_migrations
+s5t,transfer,17,280,0,0.7477,83964,155.8,0.389,0.576,3,20
+s5r,recompute,17,280,0,0.7497,82618,155.0,0.439,0.588,3,20
+s6t,transfer,0,280,0,0.7532,83414,116.7,0.364,0.570,5,22
+s6r,recompute,0,280,0,0.7557,81235,115.8,0.423,0.595,5,22

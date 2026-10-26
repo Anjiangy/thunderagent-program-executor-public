@@ -1,0 +1,9 @@
+{
+  "_comment": "Mooncake store client config for vLLM on Ascend. metadata_server MUST end with /metadata (mooncake/http_metadata_server.py:60 routes only that path); a bare host:port returns 404 and the transfer engine fails to register.",
+  "local_hostname": "<pod-ip>",
+  "metadata_server": "http://127.0.0.1:8081/metadata",
+  "global_segment_size": "512MB",
+  "local_buffer_size": "128MB",
+  "protocol": "rdma",
+  "master_server_address": "127.0.0.1:9013"
+}

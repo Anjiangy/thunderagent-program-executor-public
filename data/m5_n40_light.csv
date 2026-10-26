@@ -1,0 +1,3 @@
+﻿arm,programs,turns,prefix_words,done,failed,wall_s,turns_per_min,hit_rate,recompute_tokens,ttft_p50_s
+ta,40,3,1200,40,0,25.8,279.3,0.6441,61256,6.98
+ours,40,3,1200,40,0,25.6,281.7,0.6429,61422,6.80

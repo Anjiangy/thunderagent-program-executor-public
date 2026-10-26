@@ -1,0 +1,8 @@
+﻿arm,placement,prefix_words,hit_rate,recompute_tokens,turns_per_minute,lat_p50_s,lat_p95_s,moves
+bare TA,even,600,0.8159,60408,157.6,0.363,0.451,
+recompute handoff,even,600,0.8111,61728,159.8,0.340,0.444,0
+transfer (KV pull),even,600,0.7973,66208,158.3,0.354,0.452,0
+recompute handoff,skew 34/40,600,0.7411,85848,152.4,0.365,0.567,5
+transfer (KV pull),skew 34/40,600,0.7524,83490,151.2,0.432,0.577,5
+recompute handoff,skew 34/40 over capacity,900,0.5116,246264,136.9,0.473,1.466,12
+transfer (KV pull),skew 34/40 over capacity,900,0.4349,295670,131.5,0.707,1.470,12

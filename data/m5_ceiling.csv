@@ -1,0 +1,7 @@
+﻿run,programs,turns,arm,ok,failed,wall_s,turns_per_minute,hit_rate,ceiling_1_minus_1_over_turns
+s16-1,16,3,pin-count,48,0,20.9,138.1,0.6395,0.667
+s24-1,24,3,pin-count,72,0,30.5,141.5,0.6607,0.667
+s16-2,16,3,pin-count,48,0,20.9,137.7,0.6464,0.667
+s24-2,24,3,pin-count,72,0,28.8,149.8,0.6606,0.667
+t8n,16,8,pin-count,128,0,23.9,321.6,0.8679,0.875
+t8t,16,8,cap+token-aware,128,0,24.3,315.9,0.8518,0.875

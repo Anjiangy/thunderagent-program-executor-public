@@ -1,0 +1,7 @@
+﻿programs,placement,requests,ok,failed,wall_seconds,turns_per_minute,latency_p50_s,latency_p95_s,cache_hit_rate
+16,affinity,96,96,0,13.8,417.1,1.897,4.096,0.8950
+16,roundrobin,96,96,0,15.1,381.1,1.914,4.519,0.8334
+32,affinity,192,192,0,20.7,556.4,1.964,9.763,0.8127
+32,roundrobin,192,192,0,32.8,351.2,4.782,8.096,0.6007
+40,affinity,240,240,0,20.5,703.5,1.951,9.232,0.8553
+40,roundrobin,240,240,0,38.7,371.6,6.148,7.623,0.5304

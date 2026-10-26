@@ -1,0 +1,4 @@
+﻿attempt,config,outcome,evidence
+25% heavy 6x,N=32 arrive 1.2s,measured,cap arm 73.7% vs 69.5% hit; throughput flat
+50% heavy 5x,N=24,deadlock,24/24 paused / 0 attached to backend / vLLM idle 0 running
+50% heavy 2x,N=24,deadlock,identical state after service restart

@@ -1,0 +1,5 @@
+﻿label,carrier,prefix_words,forced_to_a,requests,failures,hit_rate,recompute_tokens,turns_per_minute,lat_p50_s,lat_p95_s,balance_moves
+s8t600,transfer,600,34,280,0,0.7524,83490,151.2,0.432,0.577,5
+s8r600,recompute,600,34,280,0,0.7411,85848,152.4,0.365,0.567,5
+s8t900,transfer,900,34,280,0,0.4349,295670,131.5,0.707,1.470,12
+s8r900,recompute,900,34,280,0,0.5116,246264,136.9,0.473,1.466,12

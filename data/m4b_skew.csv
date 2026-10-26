@@ -1,0 +1,5 @@
+﻿config,ok,failed,turns_per_minute,hit_rate,verdict
+balanced landing,no cap,128,0,335.8,0.7335,baseline
+balanced landing,+ PLACEMENT_CAP,0,32,n/a,n/a,my patch broke it (NameError PLACEMENT_CAP); now fixed, service not running yet
+skew 24->a,no cap burst=1,128,0,85.3,0.1885,reactive migration cannot rescue
+skew 24->a,no cap burst=4,128,0,84.9,0.1779,more moves did not help
